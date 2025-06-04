@@ -28,4 +28,4 @@ Tools: Git, GitHub, VS Code, Postman, Figma
 ```
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilakarim&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilakarim&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dielascode&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dielascode&theme=tokyonight" /> </p>
