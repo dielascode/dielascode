@@ -29,10 +29,7 @@ Tools: Git, GitHub, VS Code, Postman, Figma
 ---
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dielascode&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dielascode&theme=tokyonight" /> </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielascode&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dielascode&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dielascode&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielascode&layout=compact&theme=dark" alt="Top Languages" /></p>
 
 ## 📫 How to Reach Me
 - LinkedIn: [Farid Fadilatul Karimah](https://www.linkedin.com/in/farid-fadilatul-karimah/)
