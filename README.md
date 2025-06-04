@@ -38,7 +38,7 @@ Tools: Git, GitHub, VS Code, Postman, Figma
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dielascode&theme=tokyonight" width="320"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielascode&theme=tokyonight" width="320"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielascode&layout=compact&theme=tokyonight" width="320"/>
     </td>
   </tr>
 </table>
