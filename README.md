@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dila! 👋</h1>
 <p align="center">
-  <em>Informatics Student at <strong>Politeknik Negeri Jember</strong> | Code & Create ✨</em>
+  <em>🎓 Informatics Student • 💻 Fullstack Developer in Progress • 🎨 Passionate UI/UX Designer</em>
 </p>
 
 ---
@@ -26,6 +26,7 @@ Frameworks:
 Database: MySQL, JSON, PostgreSQL
 Tools: Git, GitHub, VS Code, Postman, Figma
 ```
+---
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dielascode&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dielascode&theme=tokyonight" /> </p>
