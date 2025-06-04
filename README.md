@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dila! 👋</h1>
+<p align="center">
+  <em>Informatics Student at <strong>Politeknik Negeri Jember</strong> | Code & Create ✨</em>
+</p>
 
-<!--
-**dielascode/dielascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m a college student majoring in **Informatics Engineering** at Politeknik Negeri Jember
+- 🔭 I’m currently exploring:
+  - 🌐 **Django** for backend with Python
+  - ⚛️ **React.js** for frontend
+- 💻 I love building useful, creative, and clean web applications!
+- 🌱 Continuously learning and improving every day 💪
+
+---
+
+### 💼 Tech Stack
+
+```yaml
+Languages: JavaScript, PHP, HTML, CSS, SQL, Python
+Frameworks:
+  Backend: Node.js, Express.js, Laravel, CodeIgniter, Django (learning)
+  Frontend: React.js
+Database: MySQL, JSON, PostgreSQL
+Tools: Git, GitHub, VS Code, Postman, Figma
