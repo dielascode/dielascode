@@ -29,3 +29,16 @@ Tools: Git, GitHub, VS Code, Postman, Figma
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dielascode&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dielascode&theme=tokyonight" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielascode&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+## 📫 How to Reach Me
+- LinkedIn: [farid fadilatul karimah](https://www.linkedin.com/in/farid-fadilatul-karimah/)
+- Email: [faridfadilah70@gmail.com](mailto:faridfadilah70@gmail.com)
+- Instagram: [dilaaa.fa_](https://www.instagram.com/dilaaa.fa_)
+
+---
+
+Thank you for visiting!  
+Let's connect and collaborate 🚀
