@@ -25,3 +25,7 @@ Frameworks:
   Frontend: React.js
 Database: MySQL, JSON, PostgreSQL
 Tools: Git, GitHub, VS Code, Postman, Figma
+```
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dilakarim&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilakarim&theme=tokyonight" /> </p>
