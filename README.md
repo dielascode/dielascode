@@ -9,8 +9,8 @@
 
 - 🎓 I’m a college student majoring in **Informatics Engineering** at Politeknik Negeri Jember
 - 🔭 I’m currently exploring:
-  - 🌐 **Django** for backend with Python
-  - ⚛️ **React.js** for frontend
+  - 🌐 Python
+  - ⚛️ Javascript
 - 💻 I love building useful, creative, and clean web applications!
 - 🌱 Continuously learning and improving every day 💪
 
